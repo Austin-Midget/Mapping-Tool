@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mapping Tool/1.0.0": {
+        "runtime": {
+          "Mapping Tool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mapping Tool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
