@@ -1,5 +1,6 @@
 # Mapping-Tool
-is a advanced terminal, that is focusing on every aspect of functionality, design, convenience and much more.
+Is a advanced terminal, that is focusing on every aspect of functionality, design, convenience. This project is expected to last a while but end up
+with a extremely good end-product.
 
 
 # ChangeLog
