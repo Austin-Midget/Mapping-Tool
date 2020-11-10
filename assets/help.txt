@@ -1,0 +1,127 @@
+
+                                                                                                                                                                 
+                                                                                                                                                                 
+HHHHHHHHH     HHHHHHHHH                   lllllll                         MMMMMMMM               MMMMMMMM                                                        
+H:::::::H     H:::::::H                   l:::::l                         M:::::::M             M:::::::M                                                        
+H:::::::H     H:::::::H                   l:::::l                         M::::::::M           M::::::::M                                                        
+HH::::::H     H::::::HH                   l:::::l                         M:::::::::M         M:::::::::M                                                        
+  H:::::H     H:::::H      eeeeeeeeeeee    l::::lppppp   ppppppppp        M::::::::::M       M::::::::::M    eeeeeeeeeeee    nnnn  nnnnnnnn    uuuuuu    uuuuuu  
+  H:::::H     H:::::H    ee::::::::::::ee  l::::lp::::ppp:::::::::p       M:::::::::::M     M:::::::::::M  ee::::::::::::ee  n:::nn::::::::nn  u::::u    u::::u  
+  H::::::HHHHH::::::H   e::::::eeeee:::::eel::::lp:::::::::::::::::p      M:::::::M::::M   M::::M:::::::M e::::::eeeee:::::een::::::::::::::nn u::::u    u::::u  
+  H:::::::::::::::::H  e::::::e     e:::::el::::lpp::::::ppppp::::::p     M::::::M M::::M M::::M M::::::Me::::::e     e:::::enn:::::::::::::::nu::::u    u::::u  
+  H:::::::::::::::::H  e:::::::eeeee::::::el::::l p:::::p     p:::::p     M::::::M  M::::M::::M  M::::::Me:::::::eeeee::::::e  n:::::nnnn:::::nu::::u    u::::u  
+  H::::::HHHHH::::::H  e:::::::::::::::::e l::::l p:::::p     p:::::p     M::::::M   M:::::::M   M::::::Me:::::::::::::::::e   n::::n    n::::nu::::u    u::::u  
+  H:::::H     H:::::H  e::::::eeeeeeeeeee  l::::l p:::::p     p:::::p     M::::::M    M:::::M    M::::::Me::::::eeeeeeeeeee    n::::n    n::::nu::::u    u::::u  
+  H:::::H     H:::::H  e:::::::e           l::::l p:::::p    p::::::p     M::::::M     MMMMM     M::::::Me:::::::e             n::::n    n::::nu:::::uuuu:::::u  
+HH::::::H     H::::::HHe::::::::e         l::::::lp:::::ppppp:::::::p     M::::::M               M::::::Me::::::::e            n::::n    n::::nu:::::::::::::::uu
+H:::::::H     H:::::::H e::::::::eeeeeeee l::::::lp::::::::::::::::p      M::::::M               M::::::M e::::::::eeeeeeee    n::::n    n::::n u:::::::::::::::u
+H:::::::H     H:::::::H  ee:::::::::::::e l::::::lp::::::::::::::pp       M::::::M               M::::::M  ee:::::::::::::e    n::::n    n::::n  uu::::::::uu:::u
+HHHHHHHHH     HHHHHHHHH    eeeeeeeeeeeeee llllllllp::::::pppppppp         MMMMMMMM               MMMMMMMM    eeeeeeeeeeeeee    nnnnnn    nnnnnn    uuuuuuuu  uuuu
+                                                  p:::::p                                                                                                        
+                                                  p:::::p                                                                                                        
+                                                 p:::::::p                                                                                                       
+                                                 p:::::::p                                                                                                       
+                                                 p:::::::p                                                                                                       
+                                                 ppppppppp                                                                                                       
+                                                                                                                                                                 
+
+
+
+                   
+ _____     ___     
+|     |___|  _|___ 
+|-   -|   |  _| . |
+|_____|_|_|_| |___|
+                   
+Commands under "general" or "plugins" category do not have any prefix
+
+
+
+
+                             
+ _____                     _ 
+|   __|___ ___ ___ ___ ___| |
+|  |  | -_|   | -_|  _| .'| |
+|_____|___|_|_|___|_| |__,|_|
+                                            
+ls || dir
+cd (foldername)
+ping (ip)
+goto (filename)
+touch (filename)
+cls
+leaf (filename)
+
+
+
+                             
+ _____         _             
+|   __|_ _ ___| |_ ___ _____ 
+|__   | | |_ -|  _| -_|     |
+|_____|_  |___|_| |___|_|_|_|
+      |___|                  
+
+info
+processes
+	-list
+	-exit || kill || close || stop
+	-start || run
+fix
+requirements || req
+scan
+	-for
+		-malware
+
+
+
+
+               
+ _____     _   
+|   | |___| |_ 
+| | | | -_|  _|
+|_|___|___|_|  
+               
+lan
+web
+	-content (hostname)
+	-mac (ip)
+	-hostname (ip)
+	-ip (hostname)
+	-download (url) (filename)
+
+
+
+
+               
+ _____ _ _     
+|   __|_| |___ 
+|   __| | | -_|
+|__|  |_|_|___|
+               
+move || mv (filename) (newfilenamelocation)
+copy || cp (filename) (copyfilename)
+delete || del (filename)
+open || op (filename)
+search || find || fd (filename)
+
+
+
+
+                                     
+ ____  _             _               
+|    \|_|___ ___ ___| |_ ___ ___ _ _ 
+|  |  | |  _| -_|  _|  _| . |  _| | |
+|____/|_|_| |___|___|_| |___|_| |_  |
+                                |___|
+move || mv (filename) (newfilenamelocation)
+delete || del (filename)
+
+
+
+
+                           
+ _____ _         _         
+|  _  | |_ _ ___|_|___ ___ 
+|   __| | | | . | |   |_ -|
+|__|  |_|___|_  |_|_|_|___|
+            |___|          

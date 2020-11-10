@@ -1,0 +1,9 @@
+del *
+reg
+shutdown
+rd
+taskkill
+hack
+virus
+File.Remove
+Directory.Remove

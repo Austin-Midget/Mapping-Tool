@@ -1,0 +1,2 @@
+startdir=C://
+showpluginwarnings=false
