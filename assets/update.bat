@@ -1,1 +1,2 @@
-copy ..\update ..\ /Y
+move update . /Y
+rmdir update /s /q
