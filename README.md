@@ -8,9 +8,9 @@ with a extremely good end-product.
 - can directly download files from url
 - added directory class
 - leaf can now auto-install
+- auto update added
 
 
 # Future features
 - udp port listen
 - udp port send
-- auto update
