@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "Mapping Tool/1.0.0": {
         "dependencies": {
-          "LibGit2Sharp": "0.26.2"
+          "LibGit2Sharp": "0.26.2",
+          "githubUpdateAPI": "1.0.0.0"
         },
         "runtime": {
           "Mapping Tool.dll": {}
@@ -98,6 +99,14 @@
             "fileVersion": "0.0.0.0"
           }
         }
+      },
+      "githubUpdateAPI/1.0.0.0": {
+        "runtime": {
+          "githubUpdateAPI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -120,6 +129,11 @@
       "sha512": "sha512-LY9nyPE2X/eLl69ttuDPFFlKR8b5KXlqYej1YR1YmqmhF8Izo+vPX90q5ouOO5YGCf5d4lDUOC0x2yMWw00P7Q==",
       "path": "libgit2sharp.nativebinaries/2.0.306",
       "hashPath": "libgit2sharp.nativebinaries.2.0.306.nupkg.sha512"
+    },
+    "githubUpdateAPI/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -9,6 +9,7 @@ with a extremely good end-product.
 - added directory class
 - leaf can now auto-install
 - auto update added
+- auto update now in own library
 
 
 # Future features
