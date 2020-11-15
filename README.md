@@ -11,10 +11,12 @@ with a extremely good end-product.
 - auto update added
 - auto update now in own library
 - udp port listening and sending supported
+- install process added
 
 
 # Future features
-- suggest more features
+- Plugin: Box
+-- Manages apps
 
 
 # Setup
