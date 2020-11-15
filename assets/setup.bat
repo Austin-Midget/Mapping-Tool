@@ -1,0 +1,2 @@
+copy "Mapping Tool\assets\Mapping Tool.lnk" "%USERPROFILE%\Desktop\Mapping Tool.lnk"
+copy "Mapping Tool\assets\Mapping Tool.lnk" "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Mapping Tool.lnk"
