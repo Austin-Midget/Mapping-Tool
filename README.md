@@ -15,3 +15,16 @@ with a extremely good end-product.
 
 # Future features
 - suggest more features
+
+
+# Setup
+* Open CMD
+* Type `cd %USERPROFILE%\AppData\Roaming`
+* type `git clone https://github.com/Austin-Midget/Mapping-Tool.git "Mapping Tool"`
+* Type `cd "Mapping Tool/assets"`
+* Type `dependencies.bat`
+* Follow the installer setups
+* Type `cd ..`
+* Type `cd ..`
+* Type `"Mapping Tool/assets/setup.bat"`
+* Go to your start menu and the app should be installed!
