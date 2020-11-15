@@ -1,4 +1,4 @@
-# Mapping-Tool
+# Mapping-Tool V5
 Is a advanced terminal, that is focusing on every aspect of functionality, design, convenience. This project is expected to last a while but end up
 with a extremely good end-product.
 
@@ -10,8 +10,8 @@ with a extremely good end-product.
 - leaf can now auto-install
 - auto update added
 - auto update now in own library
+- udp port listening and sending supported
 
 
 # Future features
-- udp port listen
-- udp port send
+- suggest more features

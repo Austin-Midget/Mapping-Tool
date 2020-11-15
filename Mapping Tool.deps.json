@@ -9,7 +9,8 @@
       "Mapping Tool/1.0.0": {
         "dependencies": {
           "LibGit2Sharp": "0.26.2",
-          "githubUpdateAPI": "1.0.0.0"
+          "githubUpdateAPI": "1.0.0.0",
+          "NetworkUDP": "1.0.0.0"
         },
         "runtime": {
           "Mapping Tool.dll": {}
@@ -107,6 +108,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "NetworkUDP/1.0.0.0": {
+        "runtime": {
+          "NetworkUDP.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -131,6 +140,11 @@
       "hashPath": "libgit2sharp.nativebinaries.2.0.306.nupkg.sha512"
     },
     "githubUpdateAPI/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkUDP/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
