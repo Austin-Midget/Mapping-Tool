@@ -82,6 +82,8 @@ scan
 |_|___|___|_|  
                
 lan
+	-recieve (port)
+	-send (port) (data)
 web
 	-content (hostname)
 	-mac (ip)
