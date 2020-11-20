@@ -1,4 +1,4 @@
-# Mapping-Tool V6
+# Mapping-Tool
 Is a advanced terminal, that is focusing on every aspect of functionality, design, convenience. This project is expected to last a while but end up
 with a extremely good end-product.
 
