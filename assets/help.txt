@@ -90,6 +90,8 @@ web
 	-hostname (ip)
 	-ip (hostname)
 	-download (url) (filename)
+	-locate (ip)
+	-info (ip)
 
 
 

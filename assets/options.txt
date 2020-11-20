@@ -1,2 +1,3 @@
 startdir=C://
-showpluginwarnings=false
+showpluginwarnings=true
+geoLocateApiKey=NULL
