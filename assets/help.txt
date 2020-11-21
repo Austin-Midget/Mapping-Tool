@@ -51,6 +51,7 @@ goto (filename)
 touch (filename)
 cls
 leaf (filename)
+exit
 
 
 
@@ -107,6 +108,17 @@ copy || cp (filename) (copyfilename)
 delete || del (filename)
 open || op (filename)
 search || find || fd (filename)
+
+
+
+
+                     
+ __                _ 
+|  |   ___ ___ ___| |
+|  |__| . |  _| .'| |
+|_____|___|___|__,|_|
+                     
+Info
 
 
 

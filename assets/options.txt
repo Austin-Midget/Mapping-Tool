@@ -1,3 +1,5 @@
-startdir=C://
-showpluginwarnings=true
+startDir=C://
+showPluginWarnings=false
 geoLocateApiKey=NULL
+promptFormat[NORMAL|COMPACT|EXPANDED]=EXPANDED
+offlineMode=false
