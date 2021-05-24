@@ -1,4 +1,4 @@
-# Mapping-Tool
+# Mapping-Tool (Warning! This Project has been shut down, It will be replaced by Terminal, check my github for more)
 Is a advanced terminal, that is focusing on every aspect of functionality, design, convenience. This project is expected to last a while but end up
 with a extremely good end-product.
 
